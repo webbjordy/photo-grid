@@ -1,0 +1,16 @@
+img {
+  width: 30%;
+  float:left;
+  margin: 1.66%;
+}
+
+h1 {
+  font-size: 20px;
+  margin-left: 1.66%;
+}
+
+hr {
+  width: 30%;
+  color: #fff;
+  padding-left: 20px;
+}
